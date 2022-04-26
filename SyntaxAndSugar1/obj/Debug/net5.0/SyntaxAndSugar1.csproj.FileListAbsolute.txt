@@ -1,0 +1,16 @@
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\bin\Debug\net5.0\SyntaxAndSugar1.exe
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\bin\Debug\net5.0\SyntaxAndSugar1.deps.json
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\bin\Debug\net5.0\SyntaxAndSugar1.runtimeconfig.json
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\bin\Debug\net5.0\SyntaxAndSugar1.runtimeconfig.dev.json
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\bin\Debug\net5.0\SyntaxAndSugar1.dll
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\bin\Debug\net5.0\SyntaxAndSugar1.pdb
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\obj\Debug\net5.0\SyntaxAndSugar1.csproj.AssemblyReference.cache
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\obj\Debug\net5.0\SyntaxAndSugar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\obj\Debug\net5.0\SyntaxAndSugar1.AssemblyInfoInputs.cache
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\obj\Debug\net5.0\SyntaxAndSugar1.AssemblyInfo.cs
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\obj\Debug\net5.0\SyntaxAndSugar1.csproj.CoreCompileInputs.cache
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\obj\Debug\net5.0\SyntaxAndSugar1.dll
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\obj\Debug\net5.0\refint\SyntaxAndSugar1.dll
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\obj\Debug\net5.0\SyntaxAndSugar1.pdb
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\obj\Debug\net5.0\SyntaxAndSugar1.genruntimeconfig.cache
+C:\Users\chant\repo\SyntaxAndSugar1\SyntaxAndSugar1\obj\Debug\net5.0\ref\SyntaxAndSugar1.dll
